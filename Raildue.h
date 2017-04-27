@@ -1,7 +1,7 @@
 /*********************************************************************
  * Raildue - Control your train with Arduino Due - V1.0 - 22.4.2017
  *
- * Copyright (C) 2017 Gérald Litzistorf
+ * Copyright (C) 2017 Gerald Litzistorf
  * 
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
